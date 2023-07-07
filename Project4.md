@@ -5,4 +5,4 @@ MEAN Stack is a combination of the following components:
 4.	Node.js (JavaScript runtime environment) – Accepts requests and displays results to end user
 
 Task
-This project is aimed at implementing a simple Book Register web form using MEAN Stack
+This project is aimed at implementing a simple "Book Register Web Form" using MEAN-STACK.
