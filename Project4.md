@@ -6,3 +6,11 @@ MEAN Stack is a combination of the following components:
 
 Task
 This project is aimed at implementing a simple "Book Register Web Form" using MEAN-STACK
+***
+
+Node.js installed
+```
+sudo apt install -y nodejs
+```
+![Image](./images/nodejs.png)
+***
