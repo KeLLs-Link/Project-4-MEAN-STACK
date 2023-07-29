@@ -22,5 +22,13 @@ mages/WebConsole.gif
 sudo apt install -y mongodb
 
 ```
-
+***
+Start mongodb server and verify that the service is up and running  
+```
+sudo service mongodb start
+```````
+``````
+sudo systemctl status mongodb
+``````
+![screenshot](./images/mongodbactive.png)
 
