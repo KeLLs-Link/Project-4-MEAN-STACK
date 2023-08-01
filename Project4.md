@@ -36,6 +36,13 @@ sudo service mongodb start
 sudo systemctl status mongodb
 ``````
 ![screenshot](./images/mongodbactive.png)
+***
+We need ‘body-parser’ package to help us process JSON files passed in requests to the server.
+
+```
+sudo npm install body-parser
+```
+
 
 
 
