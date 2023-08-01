@@ -43,6 +43,7 @@ We need ‘body-parser’ package to help us process JSON files passed in reques
 sudo npm install body-parser
 ```
 
-
+![screenshot](./images/body-parser.png)
+***
 
 
