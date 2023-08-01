@@ -18,6 +18,11 @@ sudo apt install -y nodejs
 Install MongoDB
 MongoDB stores data in flexible, JSON-like documents. Fields in a database can vary from document to document and data structure can be changed over time. For our example application, we are adding book records to MongoDB that contain book name, isbn number, author, and number of pages.
 mages/WebConsole.gif
+***
+```
+sudo apt install nodejs -y
+```
+
 ```
 sudo apt install -y mongodb
 
@@ -31,4 +36,6 @@ sudo service mongodb start
 sudo systemctl status mongodb
 ``````
 ![screenshot](./images/mongodbactive.png)
+
+
 
