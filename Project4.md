@@ -45,5 +45,13 @@ sudo npm install body-parser
 
 ![screenshot](./images/body-parser.png)
 ***
+NSTALL EXPRESS AND SET UP ROUTES TO THE SERVER
 
+Express is a minimal and flexible Node.js web application framework that provides features for web and mobile applications. We will use Express to pass book information to and from our MongoDB database.
+We also will use Mongoose package which provides a straightforward, schema-based solution to model your application data. We will use Mongoose to establish a schema for the database to store data of our book register.
+
+```
+sudo npm install express mongoose
+```
+![screenshot](./images/mongoose.png)
 
