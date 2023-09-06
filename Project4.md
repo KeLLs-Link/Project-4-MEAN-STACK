@@ -57,4 +57,8 @@ sudo npm install express mongoose
 ***
 Access the routes with AngularJS
 AngularJS provides a web framework for creating dynamic views in your web applications. In this tutorial, we use AngularJS to connect our web page with Express and perform actions on our book register
+***
 
+Access the routes with AngularJS
+AngularJS provides a web framework for creating dynamic views in your web applications. In this tutorial, we use AngularJS to connect our web page with Express and perform actions on our book register.
+***
