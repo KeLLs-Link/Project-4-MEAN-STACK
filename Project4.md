@@ -12,7 +12,9 @@ Node.js installed
 ```
 sudo apt install -y nodejs
 ```
+
 ![screenshot](./images/nodejs.png)
+
 ***
 
 Install MongoDB
