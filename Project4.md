@@ -65,8 +65,8 @@ Start the server by running this command:
 ```
 node server.js
 ```
-![screenshot](./images/nodeserverup.png)
 
+![screenshot](./images/nodeserverup.png)
 Server up and running
 ***
 
