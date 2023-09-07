@@ -61,4 +61,14 @@ ACCES THE ROUTES WITH ANGULARJS
 AngularJS provides a web framework for creating dynamic views in your web applications. In this tutorial, we use AngularJS to connect our web page with Express and perform actions on our book register
 ***
 
+Start the server by running this command: 
+```
+node server.js
+```
+![screenshot](./images/nodeserverup.png)
+
+Server up and running
+***
+
+
 
