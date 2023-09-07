@@ -67,6 +67,7 @@ node server.js
 ```
 
 ![screenshot](./images/nodeserverup.png)
+
 Server up and running
 ***
 
