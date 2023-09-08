@@ -13,7 +13,8 @@ Node.js installed
 sudo apt install -y nodejs
 ```
 
-![screenshot](./images/nodejs.png)
+![Screenshot](images/nodejs.png)
+
 
 ***
 
