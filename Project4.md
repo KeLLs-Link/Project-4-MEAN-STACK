@@ -72,6 +72,21 @@ node server.js
 
 Server up and running
 ***
-git 
+
+I can now access my Book Register web application from the Internet with a browser using a Public IP address or Public DNS name.
+
+```
+curl -s http://169.254.169.254/latest/meta-data/public-ipv4 
+```
+```
+3.145.158.137:3300
+```
+
+![screenshot](./images/webbookapplication.png) 
+
+Congratulations: This is how your WebBook Register Application will look in the browser:
+
+
+
 
 
